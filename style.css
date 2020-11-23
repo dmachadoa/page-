@@ -31,6 +31,12 @@
 .parrafo{
     columns: #333333;
     font-family: Franklin Gothic Medium, Arial Narrow, Arial, "sans-serif";
-    text-align: justify; width: 70%; 
+    text-align: justify; width: 8   0%; 
     padding-left: 10px;
+}
+.presentacion{
+    color: black;
+    font-size: medium;
+    font-family: 'Lucida Sans', Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif; 
+    
 }
