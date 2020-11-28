@@ -23,16 +23,16 @@
 }
 .color_negro{
     color: black;
-    font-family:"Cambria", Cochin, Georgia, Times, Times New Roman, serif;
-    font-size: medium;
-    width: 70%;
+    font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size:large;
+    width: 95  %;
 }
 
 .parrafo{
     columns: #333333;
     font-family: Franklin Gothic Medium, Arial Narrow, Arial, "sans-serif";
     text-align: justify; width: 8   0%; 
-    padding-left: 10px;
+    
 }
 .presentacion{
     color: black;
