@@ -10,7 +10,7 @@
 .color_menu{
 
     background-color:#F0B429;
-    font-family: Franklin Gothic Medium, "Arial Narrow", Arial, sans-serif;
+    font-family:Franklin Gothic Medium,"Arial Narrow", Arial, sans-serif;
     width: 1400;
 }  
 .color_naranja {
@@ -30,13 +30,13 @@
 
 .parrafo{
     columns: #333333;
-    font-family: Franklin Gothic Medium, Arial Narrow, Arial, "sans-serif";
+    font-family: Franklin Gothic Medium, Arial Narrow, Arial,"sans-serif";
     text-align: justify; width: 8   0%; 
     
 }
 .presentacion{
     color: black;
     font-size: medium;
-    font-family: 'Lucida Sans', Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif; 
+    font-family:'Lucida Sans',Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif; 
     
 }
